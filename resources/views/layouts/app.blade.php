@@ -14,7 +14,7 @@
     <link href="https://fonts.bunny.net/css?family=Nunito" rel="stylesheet">
 
     <!-- Scripts -->
-    <!-- @vite(['resources/sass/app.scss', 'resources/js/app.js']) -->
+    <!-- AT-vite(['resources/sass/app.scss', 'resources/js/app.js']) -->
     <link rel="preload" as="style" href="http://127.0.0.1:8000/build/assets/app-041e359a.css">
     <link rel="modulepreload" href="http://127.0.0.1:8000/build/assets/app-39dcccdc.js">
     <link rel="stylesheet" href="http://127.0.0.1:8000/build/assets/app-041e359a.css">
