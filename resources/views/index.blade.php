@@ -1258,7 +1258,7 @@
                       <!-- Sales Graph -->
                       <div class="card card-default">
                         <div class="card-header">
-                          <h2>Sales Of The Year 2023</h2>
+                          <h2>Sales Of The Year</h2>
                         </div>
                         <div class="card-body">
                           <canvas id="linechart" class="chartjs"></canvas>
